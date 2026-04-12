@@ -8,7 +8,6 @@ I recently completed a comprehensive Data Technician course with Just IT, where 
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [akmraquib@yahoo.com](mailto:akmraquib@yahoo.com)
-* 🧠  I'm learning Python, Azure,
 * 🤝  I'm open to collaborating on Data anlytics
 
 ### Skills
